@@ -1,2 +1,3 @@
-# laravel-github-webhook
-Using a GitHub webhook with Laravel 
+# Laravel deployment with a GitHub webhook
+
+How to use a GitHub webhook to deploy a Laravel application. 
