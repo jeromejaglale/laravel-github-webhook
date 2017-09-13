@@ -1,3 +1,5 @@
-# Laravel deployment with a GitHub webhook
+# Automated Laravel deployment with a GitHub webhook
 
-How to use a GitHub webhook to deploy a Laravel application. 
+How to use a GitHub webhook to automate the deployment of a Laravel application.
+
+Tutorial: http://jeromejaglale.com/doc/php/laravel_github_webhook
